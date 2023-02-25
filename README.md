@@ -13,9 +13,9 @@ https://www.figma.com/
 
 ## Schema Editor
 
-https://excalidraw.com/
+[Excalidraw - Hand-drawn look & feel, Collaborative, Secure](https://excalidraw.com/)
 
-[diagrams.net](https://www.draw.io/index.html)
+[draw.io](https://www.draw.io/index.html)
 
 
 ## Editor online, Presentation
