@@ -1,21 +1,27 @@
 # tools.makerslab.pl
 
 
-## Edytir online, Presentation
+## Collaborative tools 
 
 https://miro.com/
 
-https://www.canva.com/lt_lt/
+
+## UX - Interface, Mockup, app prototyping
+
+https://www.figma.com/
+
+
+
+## Editor online, Presentation
+
+https://www.canva.com/
+
 https://haystack.deepset.ai/overview/intro
+
 https://heyzine.com/feature/canva-flipbook
 
 https://excalidraw.com/
 
-
-
-## UX - Interface
-
-https://www.figma.com/
 
 
 
@@ -38,12 +44,14 @@ https://storybook.js.org/
 
 https://www.chromatic.com
 
+mautic
+
 
 ## CRM
 
 
 
-https://github.com/getlago/lago
+
 https://erpnext.com/
 https://www.dolibarr.org/addon-market-place.php
 
@@ -51,5 +59,5 @@ https://www.dolibarr.org/addon-market-place.php
 
 ## Payments
 
-
+https://github.com/getlago/lago
 https://www.gnucash.org/
