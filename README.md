@@ -11,20 +11,26 @@ https://miro.com/
 https://www.figma.com/
 
 
+## Schema Editor
+
+https://excalidraw.com/
+
+[diagrams.net](https://www.draw.io/index.html)
+
 
 ## Editor online, Presentation
+
+
 
 https://www.canva.com/
 
 https://heyzine.com/feature/canva-flipbook
 
-https://excalidraw.com/
 
 
 
 
 ## Data 
-
 
 https://airtable.com
 
