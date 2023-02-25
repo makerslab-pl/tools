@@ -50,6 +50,7 @@ https://vitepress.vuejs.org/
 https://www.chromatic.com
 
 
+
 ## CRM
 
 https://erpnext.com/
@@ -61,4 +62,5 @@ https://www.dolibarr.org/addon-market-place.php
 ## Payments
 
 https://github.com/getlago/lago
+
 https://www.gnucash.org/
