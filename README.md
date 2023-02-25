@@ -70,3 +70,10 @@ https://www.dolibarr.org/addon-market-place.php
 https://github.com/getlago/lago
 
 https://www.gnucash.org/
+
+
+---
+
+Information provided by Olek Suchodolski
+
+builded by Tom Sapletta
