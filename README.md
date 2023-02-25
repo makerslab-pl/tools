@@ -16,8 +16,6 @@ https://www.figma.com/
 
 https://www.canva.com/
 
-https://haystack.deepset.ai/overview/intro
-
 https://heyzine.com/feature/canva-flipbook
 
 https://excalidraw.com/
@@ -27,32 +25,35 @@ https://excalidraw.com/
 
 ## Data 
 
+
 https://airtable.com
+
+https://haystack.deepset.ai/overview/intro
+
 
 
 ## Website & Documention
 
-
-https://vitepress.vuejs.org/
-https://vitejs.dev/plugins/
-https://vitebook.dev/introduction/what-is-vitebook.html
 https://storybook.js.org/
 
+https://vitejs.dev/plugins/
+
+https://vitebook.dev/introduction/what-is-vitebook.html
+
+https://vitepress.vuejs.org/
 
 
-## MArketing
+## Marketing
+
+[Open Source Marketing Automation - Mautic Community](https://www.mautic.org/)
 
 https://www.chromatic.com
-
-mautic
 
 
 ## CRM
 
-
-
-
 https://erpnext.com/
+
 https://www.dolibarr.org/addon-market-place.php
 
 
