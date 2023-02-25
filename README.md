@@ -3,12 +3,12 @@
 
 ## Collaborative tools 
 
-https://miro.com/
+[The Visual Collaboration Platform for Every Team - Miro](https://miro.com/)
 
 
 ## UX - Interface, Mockup, app prototyping
 
-https://www.figma.com/
+[Figma - the collaborative interface design tool](https://www.figma.com/)
 
 
 ## Schema Editor
@@ -20,13 +20,9 @@ https://www.figma.com/
 
 ## Editor online, Presentation
 
++ [canva.com - Free Design Tool: Presentations, Video, Social Media](https://www.canva.com/)
 
-
-https://www.canva.com/
-
-https://heyzine.com/feature/canva-flipbook
-
-
++ [heyzine.com - Canva flipbook](https://heyzine.com/feature/canva-flipbook)
 
 
 
