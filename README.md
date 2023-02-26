@@ -28,7 +28,7 @@
 
 ## Data 
 
-https://airtable.com
+https://baserow.io/templates/
 
 https://haystack.deepset.ai/overview/intro
 
