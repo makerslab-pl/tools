@@ -63,9 +63,17 @@ https://www.dolibarr.org/addon-market-place.php
 
 ## Payments
 
-https://github.com/getlago/lago
+### Lago
+Lago offers a self-hosted, scalable and modular architecture for metering and usage-based billing, at every stage of your company.
++ [getlago.com - Lago - Open Source Metering & Usage-Based Billing](https://www.getlago.com/)
++ [getlago/lago: Open Source Metering and Usage Based Billing](https://github.com/getlago/lago)
 
-https://www.gnucash.org/
+### GnuCash
+GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows.
+
+Designed to be easy to use, yet powerful and flexible, GnuCash allows you to track bank accounts, stocks, income and expenses. As quick and intuitive to use as a checkbook register, it is based on professional accounting principles to ensure balanced books and accurate reports.
++ [gnucash.org - Free Accounting Software](https://www.gnucash.org/)
++ [Download gnucash-4.13.tar.bz2 (GnuCash)](https://sourceforge.net/projects/gnucash/files/gnucash%20%28stable%29/4.13/gnucash-4.13.tar.bz2/download)
 
 
 ---
