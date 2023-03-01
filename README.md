@@ -80,4 +80,4 @@ Designed to be easy to use, yet powerful and flexible, GnuCash allows you to tra
 
 Information provided by Olek Suchodolski
 
-builded by Tom Sapletta
+builded & updated by Tom Sapletta
