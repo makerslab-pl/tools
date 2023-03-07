@@ -76,8 +76,14 @@ Designed to be easy to use, yet powerful and flexible, GnuCash allows you to tra
 + [Download gnucash-4.13.tar.bz2 (GnuCash)](https://sourceforge.net/projects/gnucash/files/gnucash%20%28stable%29/4.13/gnucash-4.13.tar.bz2/download)
 
 
+
+## Authors
+
++ Information provided by Olek Suchodolski
+
++ builded & updated by Tom Sapletta
+
 ---
-
-Information provided by Olek Suchodolski
-
-builded & updated by Tom Sapletta
++ [edit](https://github.com/makerslab-pl/tools/edit/main/README.md)
++ [makerslab-pl/tools](https://github.com/makerslab-pl/tools)
+---
